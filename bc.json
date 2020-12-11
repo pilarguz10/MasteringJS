@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ad524b70-d080-4607-b221-b3eaaba86bbe.ws-eu03.gitpod.io",
+    "address": "https://c486cb04-1657-4091-8bfc-fd7d663d560a.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -94,7 +94,7 @@
         {
             "slug": "06-addProperty",
             "title": "06-addProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/06-addProperty",
             "translations": [
                 "es",
@@ -116,7 +116,7 @@
         {
             "slug": "08-checkAge",
             "title": "08-checkAge",
-            "done": false,
+            "done": true,
             "path": "exercises/08-checkAge",
             "translations": [
                 "es",
@@ -127,7 +127,7 @@
         {
             "slug": "09-getFullName",
             "title": "09-getFullName",
-            "done": false,
+            "done": true,
             "path": "exercises/09-getFullName",
             "translations": [
                 "es",
@@ -138,7 +138,7 @@
         {
             "slug": "10-getLengthOfWord",
             "title": "10-getLengthOfWord",
-            "done": false,
+            "done": true,
             "path": "exercises/10-getLengthOfWord",
             "translations": [
                 "es",
@@ -149,7 +149,7 @@
         {
             "slug": "11-getLengthOfTwoWords",
             "title": "11-getLengthOfTwoWords",
-            "done": false,
+            "done": true,
             "path": "exercises/11-getLengthOfTwoWords",
             "translations": [
                 "es",
@@ -160,7 +160,7 @@
         {
             "slug": "12-isGreaterThanTen",
             "title": "12-isGreaterThanTen",
-            "done": false,
+            "done": true,
             "path": "exercises/12-isGreaterThanTen",
             "translations": [
                 "es",
@@ -171,7 +171,7 @@
         {
             "slug": "13-isLessThanThirty",
             "title": "13-isLessThanThirty",
-            "done": false,
+            "done": true,
             "path": "exercises/13-isLessThanThirty",
             "translations": [
                 "es",
@@ -182,7 +182,7 @@
         {
             "slug": "14-equalsTen",
             "title": "14-equalsTen",
-            "done": false,
+            "done": true,
             "path": "exercises/14-equalsTen",
             "translations": [
                 "es",
@@ -193,7 +193,7 @@
         {
             "slug": "15-isLessThan",
             "title": "15-isLessThan",
-            "done": false,
+            "done": true,
             "path": "exercises/15-isLessThan",
             "translations": [
                 "es",
@@ -204,7 +204,7 @@
         {
             "slug": "16-isGreaterThan",
             "title": "16-isGreaterThan",
-            "done": false,
+            "done": true,
             "path": "exercises/16-isGreaterThan",
             "translations": [
                 "es",
@@ -215,7 +215,7 @@
         {
             "slug": "17-isEqualTo",
             "title": "17-isEqualTo",
-            "done": false,
+            "done": true,
             "path": "exercises/17-isEqualTo",
             "translations": [
                 "es",
@@ -226,7 +226,7 @@
         {
             "slug": "18-isEven",
             "title": "18-isEven",
-            "done": false,
+            "done": true,
             "path": "exercises/18-isEven",
             "translations": [
                 "es",
@@ -237,7 +237,7 @@
         {
             "slug": "19-isOdd",
             "title": "19-isOdd",
-            "done": false,
+            "done": true,
             "path": "exercises/19-isOdd",
             "translations": [
                 "es",
@@ -248,7 +248,7 @@
         {
             "slug": "20-isSameLength",
             "title": "20-isSameLength",
-            "done": false,
+            "done": true,
             "path": "exercises/20-isSameLength",
             "translations": [
                 "es",
@@ -259,7 +259,7 @@
         {
             "slug": "21-areBothOdd",
             "title": "21-areBothOdd",
-            "done": false,
+            "done": true,
             "path": "exercises/21-areBothOdd",
             "translations": [
                 "es",
@@ -270,7 +270,7 @@
         {
             "slug": "22-isEitherEven",
             "title": "22-isEitherEven",
-            "done": false,
+            "done": true,
             "path": "exercises/22-isEitherEven",
             "translations": [
                 "es",
@@ -281,7 +281,7 @@
         {
             "slug": "23-isOddLength",
             "title": "23-isOddLength",
-            "done": false,
+            "done": true,
             "path": "exercises/23-isOddLength",
             "translations": [
                 "es",
@@ -292,7 +292,7 @@
         {
             "slug": "24-isEvenLength",
             "title": "24-isEvenLength",
-            "done": false,
+            "done": true,
             "path": "exercises/24-isEvenLength",
             "translations": [
                 "es",
@@ -303,7 +303,7 @@
         {
             "slug": "25-isEvenAndGreaterThanTen",
             "title": "25-isEvenAndGreaterThanTen",
-            "done": false,
+            "done": true,
             "path": "exercises/25-isEvenAndGreaterThanTen",
             "translations": [
                 "es",
@@ -314,7 +314,7 @@
         {
             "slug": "26-average",
             "title": "26-average",
-            "done": false,
+            "done": true,
             "path": "exercises/26-average",
             "translations": [
                 "es",
@@ -325,7 +325,7 @@
         {
             "slug": "27-computeAreaOfATriangle",
             "title": "27-computeAreaOfATriangle",
-            "done": false,
+            "done": true,
             "path": "exercises/27-computeAreaOfATriangle",
             "translations": [
                 "es",
@@ -336,7 +336,7 @@
         {
             "slug": "28-cube",
             "title": "28-cube",
-            "done": false,
+            "done": true,
             "path": "exercises/28-cube",
             "translations": [
                 "es",
@@ -347,7 +347,7 @@
         {
             "slug": "29-square",
             "title": "29-square",
-            "done": false,
+            "done": true,
             "path": "exercises/29-square",
             "translations": [
                 "es",
@@ -358,7 +358,7 @@
         {
             "slug": "30-computeAverageLengthOfWords",
             "title": "30-computeAverageLengthOfWords",
-            "done": false,
+            "done": true,
             "path": "exercises/30-computeAverageLengthOfWords",
             "translations": [
                 "es",
