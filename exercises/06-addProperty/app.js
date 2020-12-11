@@ -9,5 +9,6 @@ let person={
     job: "lifeguard"
 }
 
-let resultado = addProperty (person, 'teacher');
+let resultado = addProperty (person, 'adress');
+console.log (resultado);
 

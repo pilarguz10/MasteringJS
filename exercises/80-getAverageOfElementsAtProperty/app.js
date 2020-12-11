@@ -27,7 +27,7 @@ function getAverageOfElementsAtProperty (obj, key)
 }
 
 var obj = {
-  key: [1, 2, 3]
+  key: [1,2,3]
 };
 var output = getAverageOfElementsAtProperty(obj, 'key');
 console.log(output); // --> 2

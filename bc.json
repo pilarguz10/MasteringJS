@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://c486cb04-1657-4091-8bfc-fd7d663d560a.ws-eu03.gitpod.io",
+    "address": "https://a8e7bc38-5a3f-48ff-b06a-446531826014.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -391,7 +391,7 @@
         {
             "slug": "82-addToBackOfNew",
             "title": "82-addToBackOfNew",
-            "done": false,
+            "done": true,
             "path": "exercises/82-addToBackOfNew",
             "translations": [
                 "es",
@@ -402,7 +402,7 @@
         {
             "slug": "83-getAllElementsButNth",
             "title": "83-getAllElementsButNth",
-            "done": false,
+            "done": true,
             "path": "exercises/83-getAllElementsButNth",
             "translations": [
                 "es",
@@ -413,7 +413,7 @@
         {
             "slug": "84-areValidCredentials",
             "title": "84-areValidCredentials",
-            "done": false,
+            "done": true,
             "path": "exercises/84-areValidCredentials",
             "translations": [
                 "es",
