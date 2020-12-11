@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://a8e7bc38-5a3f-48ff-b06a-446531826014.ws-eu03.gitpod.io",
+    "address": "https://e88dea8e-0e8d-4494-afa1-f6c8e53867cf.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -424,7 +424,7 @@
         {
             "slug": "85-getIndexOf",
             "title": "85-getIndexOf",
-            "done": false,
+            "done": true,
             "path": "exercises/85-getIndexOf",
             "translations": [
                 "es",
@@ -435,7 +435,7 @@
         {
             "slug": "86-findMinLengthOfThreeWords",
             "title": "86-findMinLengthOfThreeWords",
-            "done": false,
+            "done": true,
             "path": "exercises/86-findMinLengthOfThreeWords",
             "translations": [
                 "es",
