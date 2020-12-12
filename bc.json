@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://e88dea8e-0e8d-4494-afa1-f6c8e53867cf.ws-eu03.gitpod.io",
+    "address": "https://e91a67b8-7f4c-4a5e-84e2-edb0b6e6dabc.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -446,7 +446,7 @@
         {
             "slug": "87-findMaxLengthOfThreeWords",
             "title": "87-findMaxLengthOfThreeWords",
-            "done": false,
+            "done": true,
             "path": "exercises/87-findMaxLengthOfThreeWords",
             "translations": [
                 "es",
@@ -457,7 +457,7 @@
         {
             "slug": "88-Select",
             "title": "88-Select",
-            "done": false,
+            "done": true,
             "path": "exercises/88-Select",
             "translations": [
                 "es",
@@ -468,7 +468,7 @@
         {
             "slug": "89-getElements",
             "title": "89-getElements",
-            "done": false,
+            "done": true,
             "path": "exercises/89-getElements",
             "translations": [
                 "es",
@@ -490,7 +490,7 @@
         {
             "slug": "91-countAllCharacters",
             "title": "91-countAllCharacters",
-            "done": false,
+            "done": true,
             "path": "exercises/91-countAllCharacters",
             "translations": [
                 "us",
@@ -501,7 +501,7 @@
         {
             "slug": "92-getElementsGreaterThanTenAtProperty",
             "title": "92-getElementsGreaterThanTenAtProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/92-getElementsGreaterThanTenAtProperty",
             "translations": [
                 "es",
