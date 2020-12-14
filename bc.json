@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://e91a67b8-7f4c-4a5e-84e2-edb0b6e6dabc.ws-eu03.gitpod.io",
+    "address": "https://b49b6de8-e865-44aa-b855-2e01c7c6844c.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -512,7 +512,7 @@
         {
             "slug": "93-removeElement",
             "title": "93-removeElement",
-            "done": false,
+            "done": true,
             "path": "exercises/93-removeElement",
             "translations": [
                 "us",
@@ -523,7 +523,7 @@
         {
             "slug": "94-getFirstElementOfProperty",
             "title": "94-getFirstElementOfProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/94-getFirstElementOfProperty",
             "translations": [
                 "es",
@@ -534,7 +534,7 @@
         {
             "slug": "95-getNthElementOfProperty",
             "title": "95-getNthElementOfProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/95-getNthElementOfProperty",
             "translations": [
                 "es",
