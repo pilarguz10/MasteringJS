@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://b49b6de8-e865-44aa-b855-2e01c7c6844c.ws-eu03.gitpod.io",
+    "address": "https://b2deec5b-d020-4128-a233-4b83f2618372.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -545,7 +545,7 @@
         {
             "slug": "96-getLastElementOfProperty",
             "title": "96-getLastElementOfProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/96-getLastElementOfProperty",
             "translations": [
                 "es",
@@ -556,7 +556,7 @@
         {
             "slug": "97-keep",
             "title": "97-keep",
-            "done": false,
+            "done": true,
             "path": "exercises/97-keep",
             "translations": [
                 "es",
@@ -567,7 +567,7 @@
         {
             "slug": "98-getOddLengthWordsAtProperty",
             "title": "98-getOddLengthWordsAtProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/98-getOddLengthWordsAtProperty",
             "translations": [
                 "es",
@@ -578,7 +578,7 @@
         {
             "slug": "99-computeAverageOfNumbers",
             "title": "99-computeAverageOfNumbers",
-            "done": false,
+            "done": true,
             "path": "exercises/99-computeAverageOfNumbers",
             "translations": [
                 "es",
